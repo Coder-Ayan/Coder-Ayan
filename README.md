@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @Coder-Ayan
-- 👀 I’m interested in Python Programming
-- 🌱 I’m currently learning Python
+- 👋 Hi, I’m Ayan Das Karmakar
+- 👀 I’m interested in Python and Javascript Programming
